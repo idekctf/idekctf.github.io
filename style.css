@@ -1,6 +1,7 @@
 *{
 	margin:  0;
 	padding:  0;
+	font-family: 'BioRhyme', serif;
 }
 .header{
 	min-height: 100vh;
@@ -9,4 +10,28 @@
 	background-position: center;
 	background-size: cover;
 	position: relative;
+}
+nav{
+	display: flex;
+	padding: 0% 2%;
+	justify-content: space-between;
+	align-items: center;
+}
+nav img{
+	wdith: 150px;
+}
+.nav-links{
+	flex: 1;
+	text-align: right;
+}
+.nav-links ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 8px 12px;
+	position: relative;
+}
+.nav-links ul li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
 }
