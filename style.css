@@ -64,3 +64,20 @@ nav img{
 	font-size: 14px;
 	color: #fff;
 }
+@keyframes bgcolor {
+    0% {background-color: #45b3f0}
+
+    30% {background-color: #aa89ff}
+
+    60% {background-color: #40c79f}
+
+    90% {background-color: #f990f0}
+
+    100% {background-color: #85fcbf}
+}
+body {
+    -webkit-animation: bgcolor 100s infinite;
+    animation: bgcolor 50s infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
