@@ -65,7 +65,8 @@ nav img{
 	color: #fff;
 }
 .writeupLink {
-	margin-left: 30%;	
+	margin: 0 auto;
+	
 }
 @keyframes bgcolor {
     0% {background-color: #45b3f0}
