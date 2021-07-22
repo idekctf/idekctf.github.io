@@ -64,6 +64,9 @@ nav img{
 	font-size: 14px;
 	color: #fff;
 }
+.writeupLink {
+	margin-left: 30%;	
+}
 @keyframes bgcolor {
     0% {background-color: #45b3f0}
 
