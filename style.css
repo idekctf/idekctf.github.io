@@ -6,7 +6,7 @@
 .header{
 	min-height: 100vh;
 	width:  100%;
-	background-image:  linear-gradient(rgba(4,9,30,0.2),rgba(4,9,30,0.2)),url(images/idek_banner.png);
+	background-image:  linear-gradient(rgba(4,9,30,0.2),rgba(4,9,30,0.2));
 	background-position: center;
 	background-size: cover;
 	position: relative;
@@ -64,63 +64,3 @@ nav img{
 	font-size: 14px;
 	color: #fff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
