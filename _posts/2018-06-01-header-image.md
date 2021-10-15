@@ -1,6 +1,7 @@
 ---
 title: Post with Header Image
 tags: TeXt
+show_edit_on_github: false
 article_header:
   type: cover
   image:

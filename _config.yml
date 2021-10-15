@@ -16,13 +16,13 @@
 
 ## => Site Settings
 ##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : idek
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Official website for the idek ctf team
 
 
 ## => Language and Timezone
@@ -34,10 +34,10 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
+  type      : organization # "person" (default), "organization"
+  name      : Idek
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : https://cdn.discordapp.com/attachments/892252505201836033/896922627191496724/ctflogor11.png # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -65,7 +65,7 @@ paths:
   root    : # title link url, "/" (default)
   home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
+  members : # "/members.html" (default)
 
 
 ## => Post
@@ -84,14 +84,14 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax: true # false (default), true
+mathjax_autoNumber: true # false (default), true
 
 ## Mermaid
-mermaid: # false (default), true
+mermaid: true # false (default), true
 
 ## Chart
-chart: # false (default), true
+chart: true # false (default), true
 
 
 ## => Paginate
@@ -159,7 +159,7 @@ pageview:
 ## => Search
 ##############################
 search:
-  provider: default # "default" (default), false, "google", "custom"
+  provider: false # "default" (default), false, "google", "custom"
 
   ## Google Custom Search Engine
   google:
@@ -201,6 +201,11 @@ exclude:
   - /test
   - /vendor
 
+
+collections:
+  members:
+    output: true
+
 defaults:
   - scope:
       path: ""
@@ -209,11 +214,13 @@ defaults:
       layout: article
       sharing: true
       license: true
+      fullscreen: false
       aside:
         toc: true
-      show_edit_on_github: true
-      show_subscribe: true
+      show_edit_on_github: false
+      show_subscribe: false
       pageview: true
+      nav_key: members
 
 
 ## => Plugins
