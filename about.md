@@ -26,51 +26,27 @@ titles:
 key: page-about
 ---
 
-Place something here
+Formed on June 14, 2021, idek is an information security CTF team based primarily in the US with a few international players. The team is composed of high school and college students as well as a few professionals. idek is not associated with an institution, but rather is run independently. idek has numerous top 10 finishes with a highest ranking of 9th in the US out of 3,800 teams and 53rd overall out of 28,000 teams. idek also has a beginner team "idekJT" to promote an introduction to cybersecurity.
 
-<!-- ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+## Notable CTFs
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-
-```javascript
-(() => console.log('Hello, World!'))();
-```
-
-## Features
-
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
-
-## Skins
-
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) | -->
+|Competition|Division|Placement|
+|---|---|---|
+|Deadface 2021|Overall|7|
+|SPbCTF's Student CTF 2021 Quals|Overall|11|
+|TSG CTF 2021|Overall|11|
+|Overflow To Fall|Overall|1|
+|DownUnderCTF 2021|Overall|6|
+|Sunshine CTF 2021|Overall|7|
+|Trend Micro CTF 2021 - Raimund Genes Cup - Online Qualifier|Overall|7|
+|PBjar CTF '21|Overall|10|
+|H@cktivityCon 2021 CTF|Overall|2|
+|CSAW CTF Qualification Round 2021|Undergrad/Overall|6/16|
+|GrabCON CTF 2021|Overall|6|
+|FwordCTF 2021|Overall|7|
+|corCTF 2021|Overall|17|
+|Samsung’s Hacker's Playground 2021|Overall|20|
+|InCTF 2021|Overall|19|
+|UIUCTF 2021|Overall|14|
+|Lexington Informatics Tournament CTF 2021|HS/Overall|11/16|
+|HSCTF8 2021|HS/Overall|7/20|
