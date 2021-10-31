@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-Formed on June 14, 2021, idek is an information security CTF team based primarily in the US with a few international players. The team is composed of high school and college students as well as a few professionals. idek is not associated with an institution, but rather is run independently. idek has numerous top 10 finishes with a highest ranking of 9th in the US out of 3,800 teams and 53rd overall out of 28,000 teams. idek also has a beginner team "idekJT" to promote an introduction to cybersecurity.
+Formed in June of 2021, "idek" is an information security CTF team based primarily in the US with a few international players. The team is composed of a diverse mix of talented highschool and university students, along with a few select industry professionals. idek is not associated with an academic institution, but rather, is run independently by students from various highschools and universities. We've had numerous top-10 finishes, with a highest ranking of 6th in the US out of 3,800 teams, and 44th overall world-wide out of 28,000 teams. idek also has a junior team, mainly geared towards highschoolers and college students interested in learning more about CTF competitions, to promote both cybersecurity education and skill development.
 
 ## Notable CTFs
 
