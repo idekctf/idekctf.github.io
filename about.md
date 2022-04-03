@@ -41,6 +41,7 @@ Formed in June of 2021, "idek" is a cybersecurity CTF (Capture The Flag) team ba
 |TetCTF 2022|Overall|5|
 
 > 2021: Ending 4th in the US and 31st in the world
+
 |Competition|Division|Placement|
 |---|---|---|
 |BackdoorCTF 2021|Overall|2|
