@@ -29,10 +29,12 @@ key: page-about
 Formed in June of 2021, "idek" is a cybersecurity CTF (Capture The Flag) team based primarily in the US. The team is composed of highschool students, university students, and industry professionals from various fields of expertise. However, idek is not associated with an academic institution; rather, is run independently by high school and university students. idek has numerous top-10 finishes, with a highest ranking of 1st in the US out of 750 teams, and 3rd in the world out of 36,000 teams. Additionally, idek has been organizing idekCTF, a hacking competition targeted towards high school students and the CTF community since 2021.
 
 ## Notable CTFs
-> 2022: Peaked at 1st in the US and 2nd in the world
+> 2022: Peaked at 1st in the US and 1st in the world
 
 |Competition|Division|Placement|
 |---|---|---|
+|Securinets CTF Quals 2022|Overall|7|
+|HackPack CTF 2022|Overall|1|
 |Wolverine Security Conference/CTF|Overall|1|
 |UTCTF 2022|Overall|5|
 |UMDCTF 2022|Overall|3|
